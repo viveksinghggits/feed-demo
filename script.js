@@ -5,15 +5,10 @@ function createRequestObject(){
 	return new XMLHttpRequest();
 }
 
-
 var _o;
 var _ = new createRequestObject();
 
-
 /********/
-
-
-
 
 function call(){
 	
@@ -97,10 +92,8 @@ function call(){
 								
 						}
 					}
-		
 			};
 		_.send(null);
-		
 		
 	}
 	else{
@@ -108,10 +101,6 @@ function call(){
 	}
 	
 }
-
-
-
-
 
 document.addEventListener('DOMContentLoaded', function (){
 	call();
