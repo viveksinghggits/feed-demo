@@ -6,5 +6,5 @@ The API is returning details of the persons and their address, so at first name 
 and a map will be generated for the address of the user and when we hover on the details we will be able to interact with the map that 
 is being displayed at the backgroud of the details.
 
-#How to use
+# How to use
 You can just download the repository and change the index.html file with your Google Maps API key, and open the index page.
