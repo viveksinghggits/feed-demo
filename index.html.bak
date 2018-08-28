@@ -26,7 +26,7 @@
 			</div>
 		</div>
 		
-		<script src="https://maps.googleapis.com/maps/api/js?key=[YOUR_API_KEY]&callback=" ></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDNUWTeH9B75YcxuRIX6a03D3xF1IVdd0A&callback=" ></script>
 		
 	</body>
 </html>

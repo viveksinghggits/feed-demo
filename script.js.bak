@@ -20,8 +20,8 @@ function call(){
 						var wrapper = document.getElementById("persons");
 						_o = JSON.parse(_.responseText);
 						
-						for(var m=0; m<_o.length; m++){	
-
+						for(var m=0; m<_o.length; m++){
+						//for(var m=0; m<1; m++){
 							var _one = document.createElement("div");
 							_one.classList.add("pname");
 							_one.innerHTML=_o[m].name;
